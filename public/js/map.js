@@ -9,7 +9,7 @@ const map = new mapboxgl.Map({
 
 console.log(coordinates);
 const marker = new mapboxgl.Marker({ color: "red" })
-  .setLagLat(coordinates)
+  .setLngLat(coordinates)
   .setPopup(
     new mapboxgl.Popup({ offset: 25 }).setHTML(
       `<h5>${listing.title}</h5><p>Exact location will be provided after booking</p>`
