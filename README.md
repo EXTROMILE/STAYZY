@@ -15,7 +15,7 @@ The goal of STAYZY is to provide a seamless and scalable platform for travelers 
 <h5>Database:</h5>
 - MongoDB for scalable data storage
 
-oCloud & APIs:</h5>
+<h5>Cloud & APIs:</h5>
 - Cloudinary: Image storage and optimization
 - Mapbox: Interactive maps and location services
 
@@ -47,10 +47,10 @@ oCloud & APIs:</h5>
 - **Scalability & Security**: Designed for high availability and secure transactions.
 
 <h3>Previous Work or Related Systems</h3>
-- **Airbnb**: Specializes in vacation rentals but lacks hotel listings.
-- **Booking.com**: Primarily for hotels, limited rental integration.
-- **Expedia**: Offers both but often redirects users to third-party sites.
-- **STAYZY's Unique Value**: Unified platform offering a seamless experience without redirections.
+- Airbnb: Specializes in vacation rentals but lacks hotel listings.
+- Booking.com: Primarily for hotels, limited rental integration.
+- Expedia: Offers both but often redirects users to third-party sites.
+- STAYZY's Unique Value**: Unified platform offering a seamless experience without redirections.
 
 <h3>Future Roadmap</h3>
 - AI-powered accommodation recommendations
